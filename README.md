@@ -14,7 +14,6 @@ Based on the ride-sharing data gathered of the three different city types Rural,
 ######Total Rides Per City Type:######
 The total rides per city type were Rural 580,968,240,341,287, Suburban 3,106,884,522,576,766, and Urban 7,919,412,664,056,093.
 ![PyBer_Analysis\analysis](Total_Rides_by_City_Type.png)
-![Total_Rides_by_City_Type.png](PyBer_Analysis\PyBer_Analysis\analysis)
 
 ######Total Drivers Per City Type:######
 The total drivers per city type being Rural 537, Suburban 8,570, Urban 59,602.
