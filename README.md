@@ -25,6 +25,7 @@ The average fare per rides were Rural $34.62, Suburban $30.97, and  Urban $24.53
 
 ######The Total Fares Per City Type###### 
 The total fares per city type Rural $4,327.93, Suburban $ 19,356.33, $39,854.38.
+
 ![Total_Fares_by_City_Type](https://user-images.githubusercontent.com/83199109/123535306-9aa20c00-d6e8-11eb-96b3-30314a0f4694.png)
 
 ##Summary: ##
